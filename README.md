@@ -1,16 +1,67 @@
-## Hi there 👋
+# Darwin Carrizo
 
-<!--
-**DarwinC/DarwinC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer
 
-Here are some ideas to get you started:
+Desarrollador de software con experiencia en el diseño, desarrollo e implementación de aplicaciones empresariales, APIs y soluciones web, software escalable, automatización de procesos. Aplicación de prácticas de desarrollo y DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías
+
+### 👨‍💻 Lenguajes de Programación
+- Java
+- PHP
+- JavaScript
+- C#
+- Visual Basic .NET
+- Visual Basic 6
+- SQL
+
+### 🌐 Desarrollo Web
+- ASP.NET
+- HTML5
+- CSS3
+- Bootstrap
+- REST APIs
+
+### 🗄️ Bases de Datos
+- MySQL
+- SQL Server
+
+### ⚙️ DevOps & Cloud
+- Docker
+- Git
+- GitHub
+- CI/CD
+- AWS
+- Linux
+
+### 🛠️ Herramientas
+- VS Code
+- Visual Studio
+- Eclipse
+- Postman
+
+---
+
+## 📈 Lo que disfruto desarrollar
+
+- Arquitectura de aplicaciones
+- Sistemas empresariales
+- APIs REST
+- Automatización de procesos
+- Integraciones entre sistemas
+- Optimización de bases de datos
+- Contenedores con Docker
+- Soluciones en la nube con AWS
+
+---
+
+## 🌱 Actualmente
+
+- Aprendiendo nuevas tecnologías automatización y desarrollo de procesos con IA.
+- Mejorando continuamente en buenas prácticas de desarrollo y seguridad.
+
+---
+
+> *"El mejor código no solo funciona; también es fácil de entender, mantener y mejorar."*
