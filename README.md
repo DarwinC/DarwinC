@@ -2,7 +2,7 @@
 
 ## 💻 Full Stack Developer
 
-Desarrollador de software con experiencia en el diseño, desarrollo e implementación de aplicaciones empresariales, APIs y soluciones web, software escalable, automatización de procesos. Aplicación de prácticas de desarrollo y DevOps.
+Desarrollador de software con experiencia en el diseño, desarrollo e implementación de aplicaciones empresariales, APIs y soluciones web, software escalable y automatización de procesos. Aplicación de buenas prácticas de desarrollo y DevOps.
 
 ---
 
